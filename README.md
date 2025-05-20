@@ -1,4 +1,4 @@
-# SoundSync
+# TuneSync
 
 To start your Phoenix server:
 
